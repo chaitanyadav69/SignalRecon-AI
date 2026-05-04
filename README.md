@@ -1,5 +1,14 @@
+ll
+
 ---
 
+# Sentinel-Stream: Distributed Data Integrity & Reconciliation Engine
+
+**A high-concurrency framework for real-time synchronization and anomaly detection across heterogeneous data sources.**
+
+[![System Status: Operational](https://img.shields.io/badge/status-operational-blue.svg)](https://github.com/chaitanyadav69/SignalRecon-AI)
+
+---
 
 ## 🧠 Engineering Challenge
 
